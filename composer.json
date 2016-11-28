@@ -1,0 +1,27 @@
+{
+    "name": "pg/leanmapper-extension",
+    "type": "library",
+    "description": "PG/LeanMapper provides base classes for creating repositories and entities for use with LeanMapper and LeanMapper extension by Joseki.",
+    "keywords": ["pg", "leanmapper", "leanmapper extension", "repository", "entity", "db layer"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Pavel Gajdoš",
+        "email": "info@pavelgajdos.cz",
+        "homepage": "http://www.pavelgajdos.cz",
+        "role": "Lead Developer"
+    }],
+    "require": {
+        "php": ">=5.5",
+        "tharos/leanmapper": "~3.0",
+        "joseki/leanmapper-extension": "dev-master"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "autoload-dev": {
+
+    }
+}
