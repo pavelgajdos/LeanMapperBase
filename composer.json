@@ -1,7 +1,7 @@
 {
-    "name": "pg/leanmapper-extension",
+    "name": "pg/leanmapper-base",
     "type": "library",
-    "description": "PG/LeanMapper provides base classes for creating repositories and entities for use with LeanMapper and LeanMapper extension by Joseki.",
+    "description": "PG/LeanMapperBase provides base classes for creating repositories and entities for use with LeanMapper and LeanMapper extension by Joseki.",
     "keywords": ["pg", "leanmapper", "leanmapper extension", "repository", "entity", "db layer"],
     "license": "MIT",
     "authors": [{
